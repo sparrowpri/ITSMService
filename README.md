@@ -1,0 +1,2 @@
+# ITSMService
+This repo contains a function App in C# to perform CRUD Operations on ServiceNow Incident Table using ServiceNow API's.this repo Can be very useful for creating Backend for the App to Automate Incident Management. Sample Json Input is Given for creating ticket ,Uncomment that and paste your instance credentials in config file to test the app. Dependency Injection is used for a single class just for implementation. Classes are made to accommodate future integration with multiple ITSM services such as hornbill etc.
